@@ -19,10 +19,10 @@ have to do one thing is that he have to came on our website and that’s it. All
 requirements will be satisfied at one place. So by this GUI based automated web portal if a 
 user wants the information about a particular place or something else, then he can get it just in 
 a click. 
-The main objectives of this project are listed below: 
- Providing the best resources
- Cater the need of the tourist
- Providing correct and useful information
- To improve quality of life for the local population
- To develop sense of pride in traditional culture and identity
- To provide community facility as well as tourism facility
+### The main objectives of this project are listed below: 
+#### Providing the best resources
+#### Cater the need of the tourist
+#### Providing correct and useful information
+#### To improve quality of life for the local population
+#### To develop sense of pride in traditional culture and identity
+#### To provide community facility as well as tourism facility
