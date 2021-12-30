@@ -1,6 +1,7 @@
 # Multipurpose_Deck
  This project is made by using HTML,CSS,JS, BOOTSTRAP and PHP
-##Objectvie
+ 
+#Objectvie
 The project Multipurpose Deck (A Tourism web portal) is a GUI based automated system, 
 which will cover all the information related to the all tourism based information which a 
 tourist need. For example – Hotels, Visiting Places, Shopping Malls, and many more. If a 
